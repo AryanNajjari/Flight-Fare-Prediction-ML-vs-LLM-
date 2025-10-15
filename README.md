@@ -3,6 +3,8 @@ Predicting flight fares using traditional machine learning models (Linear Regres
 
 **Data Source:** https://www.kaggle.com/datasets/vivekgediya/flight-dataset 
 
+Results' summary: (Visual Results are uploaded in the "Results" folder. 
+
 | Model             |   MAE   |     MSE    |   RMSE   |  R²   |
 | ----------------- | ------- | ---------- | -------- | ----- |
 | Linear Regression | 1684.08 | 5363530.52 | 2315.93  | 0.700 |
